@@ -5,12 +5,16 @@ Aquí estará proyecto de planificador turistico en el estado de Querétaro.
 ## Requerimientos
 Los requisitos para el funcionamiento del proyecto:
 
+|Software    |      Version          |            Recursos                                     |
+|------------|-----------------------|---------------------------------------------------------|
+| Prox.      |      Proximamente     | [Proximamente](https://www.google.com)                  |
+|            |                       |                                                         |
 
 ## Instrucciones
 
 ## Recursos
 
-### Miembros
+## Miembros
 
 <table align="center">
   <tr align="center">
