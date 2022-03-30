@@ -58,4 +58,5 @@ Los requisitos para el funcionamiento del proyecto:
         </a>
       </p>
     </td>
+  </tr>
 </table>
