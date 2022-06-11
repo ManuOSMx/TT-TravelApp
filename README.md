@@ -16,6 +16,12 @@ Los requisitos para el funcionamiento del proyecto:
 
 ## Recursos
 
+| Desarrollo |                           Recursos                            |
+|------------|---------------------------------------------------------------|
+| Front-end  |      [Repositorio](https://github.com/ManuOSMx/TT-Front)      |
+| Back-end   |      [Repositorio](https://github.com/ManuOSMx/TT-Back)       |
+
+
 ## Miembros
 
 <table align="center">
